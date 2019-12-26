@@ -1,4 +1,4 @@
-A basic digital clock which runds the terminal.
+A basic digital clock which runs the terminal.
 
 Each digit is represented as an array of strings. It uses the current time to decide which digits to use and displays them in the terminal. The clock runs on an infinite loop which updates every second (uses time.Sleep()).
 
