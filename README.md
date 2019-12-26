@@ -4,4 +4,4 @@ Each digit is represented as an array of strings. It uses the current time to de
 
 The screen clears every seconds and moves the cursor back to the top left so the clock is redrawn inplace each time.
 
-[screenshot](/digitalClock.png)
+![screenshot](/digitalClock.png)
